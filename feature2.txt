@@ -1,3 +1,10 @@
 name: vippa keerthi
 age:21
 college:stanley
+name: Niketha
+age: 20
+college: GNITS
+name: Tulsiram
+age: 21
+college: SISTec Bhopal
+
