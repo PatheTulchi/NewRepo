@@ -1,3 +1,3 @@
-name:keerthi
-age:21
-college:stanley
+name: Niketha
+age: 20
+college: GNITS
